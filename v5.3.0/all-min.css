@@ -3318,7 +3318,7 @@ a {
       left: 0;
       right: 0;
       content: "";
-      background: rgba(247, 153, 24, 0.1);
+      background: rgb(38 24 247 / 10%);
       height: 20%;
       width: 100%;
       bottom: 0;
