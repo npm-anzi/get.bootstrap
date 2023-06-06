@@ -2960,7 +2960,7 @@ textarea.form-control {
       border-radius: 50%;
       border: 1px solid #f4fcff; }
       .site-mobile-menu .site-nav-wrap .arrow-collapse:before {
-        font-size: 14px;
+        font-size: 25px;
         z-index: 20;
         font-family: "realixicon";
         content: "\ea50";
